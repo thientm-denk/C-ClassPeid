@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604647494 source:c:\users\fpt\onedrive\desktop\cclass\homework\05\05-regulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
