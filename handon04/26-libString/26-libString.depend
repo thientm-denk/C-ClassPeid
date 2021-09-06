@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607341263 source:c:\users\fpt\onedrive\desktop\cclass\handon\26-libstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

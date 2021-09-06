@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607950107 source:c:\users\fpt\onedrive\desktop\cclass\handon\31-struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1612686884 source:e:\cclass\handon\31-struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
