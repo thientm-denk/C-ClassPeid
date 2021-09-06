@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604640301 source:c:\users\fpt\onedrive\desktop\cclass\homework\13-countprime\main.c
+	<stdio.h>
+	<stdlib.h>
+

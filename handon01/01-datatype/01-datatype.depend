@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603112633 source:c:\users\fpt\desktop\cclass\handon\01-datatype\main.c
+	<stdio.h>
+	<stdlib.h>
+
